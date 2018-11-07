@@ -17,3 +17,5 @@ npm run dev
 vux 按需引入，具体查看文档 https://doc.vux.li/zh-CN/
 
 flexible 响应式开发 具体百度谷歌
+
+新手上路，欢迎各位大佬批评
